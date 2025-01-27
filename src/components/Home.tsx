@@ -21,7 +21,7 @@ const Home = () => {
         &apos;Brighten Your Day with &apos;<span className="text-pink-300">&apos;Fresh Flowers&apos;</span>
         </h1>
         <p className="text-base lg:text-lg font-serif text-shadow-sm">
-        &apos;"Like wildflowers, you must allow yourself to grow in all the places people thought you never would."&apos;
+        &apos;Like wildflowers, you must allow yourself to grow in all the places people thought you never would.&apos;
         </p>
         <div>
           <Button title="Order Now" />
