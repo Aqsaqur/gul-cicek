@@ -18,10 +18,10 @@ const Home = () => {
       {/* Content */}
       <section className="relative z-10 text-white lg:w-2/3 w-full px-5 lg:px-20 space-y-8">
         <h1 className="text-4xl lg:text-6xl font-serif font-bold text-shadow-md">
-          Brighten Your Day with <span className="text-pink-300">Fresh Flowers</span>
+        &apos;Brighten Your Day with &apos;<span className="text-pink-300">&apos;Fresh Flowers&apos;</span>
         </h1>
         <p className="text-base lg:text-lg font-serif text-shadow-sm">
-          "Like wildflowers, you must allow yourself to grow in all the places people thought you never would."
+        &apos;"Like wildflowers, you must allow yourself to grow in all the places people thought you never would."&apos;
         </p>
         <div>
           <Button title="Order Now" />
